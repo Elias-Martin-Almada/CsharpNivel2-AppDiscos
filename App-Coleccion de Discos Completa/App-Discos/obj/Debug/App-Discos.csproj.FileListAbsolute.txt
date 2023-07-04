@@ -1,0 +1,48 @@
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\bin\Debug\App-Discos.exe.config
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\bin\Debug\App-Discos.exe
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\bin\Debug\App-Discos.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\obj\Debug\App-Discos.csproj.AssemblyReference.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\obj\Debug\App_Discos.frmDiscos.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\obj\Debug\App_Discos.Properties.Resources.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\obj\Debug\App-Discos.csproj.GenerateResource.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\obj\Debug\App-Discos.csproj.CoreCompileInputs.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\obj\Debug\App-Discos.exe
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\obj\Debug\App-Discos.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\bin\Debug\dominio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\bin\Debug\negocio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\bin\Debug\dominio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\bin\Debug\negocio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\obj\Debug\App-Discos.csproj.CopyComplete
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\App-Discos\obj\Debug\App_Discos.frmAltaDisco.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\bin\Debug\App-Discos.exe.config
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\bin\Debug\App-Discos.exe
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\bin\Debug\App-Discos.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\bin\Debug\dominio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\bin\Debug\negocio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\bin\Debug\dominio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\bin\Debug\negocio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\obj\Debug\App-Discos.csproj.AssemblyReference.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\obj\Debug\App_Discos.frmAltaDisco.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\obj\Debug\App_Discos.frmDiscos.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\obj\Debug\App_Discos.Properties.Resources.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\obj\Debug\App-Discos.csproj.GenerateResource.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\obj\Debug\App-Discos.csproj.CoreCompileInputs.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\obj\Debug\App-Discos.csproj.CopyComplete
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\obj\Debug\App-Discos.exe
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\App-Discos\obj\Debug\App-Discos.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\bin\Debug\App-Discos.exe.config
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\bin\Debug\App-Discos.exe
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\bin\Debug\App-Discos.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\bin\Debug\dominio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\bin\Debug\negocio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\bin\Debug\dominio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\bin\Debug\negocio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\obj\Debug\App-Discos.csproj.AssemblyReference.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\obj\Debug\App_Discos.frmAltaDisco.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\obj\Debug\App_Discos.frmDiscos.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\obj\Debug\App_Discos.Properties.Resources.resources
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\obj\Debug\App-Discos.csproj.GenerateResource.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\obj\Debug\App-Discos.csproj.CoreCompileInputs.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\obj\Debug\App-Discos.csproj.CopyComplete
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\obj\Debug\App-Discos.exe
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App-Coleccion de Discos Completa\App-Discos\obj\Debug\App-Discos.pdb

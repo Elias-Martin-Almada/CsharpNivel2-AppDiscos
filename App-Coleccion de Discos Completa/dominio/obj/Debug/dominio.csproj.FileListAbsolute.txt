@@ -1,0 +1,12 @@
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\dominio\bin\Debug\dominio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\dominio\bin\Debug\dominio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\dominio\obj\Debug\dominio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\dominio\obj\Debug\dominio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\dominio\bin\Debug\dominio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\dominio\bin\Debug\dominio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\dominio\obj\Debug\dominio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\dominio\obj\Debug\dominio.pdb

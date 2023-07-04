@@ -1,0 +1,18 @@
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\negocio\bin\Debug\negocio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\negocio\bin\Debug\negocio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\negocio\bin\Debug\dominio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\negocio\bin\Debug\dominio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\negocio\obj\Debug\negocio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\negocio\obj\Debug\negocio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\Coleccion de Discos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\negocio\bin\Debug\negocio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\negocio\bin\Debug\negocio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\negocio\bin\Debug\dominio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\negocio\bin\Debug\dominio.pdb
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\negocio\obj\Debug\negocio.dll
+C:\Users\emael\Desktop\Curso C# Nivel 2\App Discos\App Coleccion de Discos\negocio\obj\Debug\negocio.pdb
